@@ -1,4 +1,4 @@
-## CODTECH-Task-1
+# CODTECH-Task-1
 
 **Name:** JANGALA RAMA RAO
 **Company:** CODTECH IT SOLUTIONS
