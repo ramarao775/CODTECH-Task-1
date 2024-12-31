@@ -23,5 +23,9 @@ This is a simple command-line calculator program that allows users to perform ba
 
 ### Screenshots
 
-![WhatsApp Image 2024-12-31 at 09 40 18_0662bc58](https://github.com/user-attachments/assets/f1156141-a4a2-4971-94df-2850544d7191)
+![WhatsApp Image 2024-12-31 at 09 40 18_0662bc58](https://github.com/user-attachments/assets/70697fc0-120b-48bb-a7e1-a9972ec9ac0a)
+![WhatsApp Image 2024-12-31 at 09 40 46_fe9c38a0](https://github.com/user-attachments/assets/113fef08-89c7-4ade-bbdb-ec8d5c071671)
+![WhatsApp Image 2024-12-31 at 09 41 08_0093649e](https://github.com/user-attachments/assets/2d8dd4de-d9e7-421d-94bf-62d129c8f748)
+![WhatsApp Image 2024-12-31 at 09 41 24_7a80f265](https://github.com/user-attachments/assets/1d1cca6d-cdfe-435e-945e-ae7f9f708c51)
+
 
